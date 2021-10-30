@@ -1,0 +1,2 @@
+# Generative-Adversarial-Network-
+Generative Adversarial Networks là một trong số các mô hình thuộc lớp các mô hình sinh, mà cụ thể hơn là Deep Generative Models. Khác với các lớp các mô hình phân biệt (Discriminative Models), các mô hình sinh học về phân phối của dữ liệu \mathcal{P}(x). Những tác vụ có thể sử dụng Deep Generative Models bao gồm: image synthesize, style transfer, color transfer, image to image translation, etc.
