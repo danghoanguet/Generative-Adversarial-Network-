@@ -10,9 +10,6 @@ Generative Adversarial Networks là một trong số các mô hình thuộc lớ
 <img src="https://matheusfacure.github.io/img/tutorial/vanilla_gan/digit_gan.gif">
 
 Việc tranning ban đầu GAN chỉ có ảnh nhiễu, sau đó model G dần tạo ra các ảnh gần hơn với chữ viết tay.
-Epoch 0
-![mnist_0](https://user-images.githubusercontent.com/65205345/143742321-2db7bccb-87b5-46f8-9393-3626ff83087d.png)
-Epoch 800
-![2 mnist_800](https://user-images.githubusercontent.com/65205345/143742461-8fd643e5-e8bf-4ad1-bcbc-c407bf2961dc.png)
-Epoch 11600
-![mnist_11600](https://user-images.githubusercontent.com/65205345/143742743-7bcc78a1-72ca-4c43-867f-00ca3e0187c5.png)
+Epoch 0 ![mnist_0](https://user-images.githubusercontent.com/65205345/143742321-2db7bccb-87b5-46f8-9393-3626ff83087d.png)
+Epoch 800 ![2 mnist_800](https://user-images.githubusercontent.com/65205345/143742461-8fd643e5-e8bf-4ad1-bcbc-c407bf2961dc.png)
+Epoch 11600 ![mnist_11600](https://user-images.githubusercontent.com/65205345/143742743-7bcc78a1-72ca-4c43-867f-00ca3e0187c5.png)
