@@ -6,7 +6,8 @@ Generative Adversarial Networks là một trong số các mô hình thuộc lớ
 - pip install -r requirements.txt
 - python GAN.py
 
-# Kết quả tham khảo: https://matheusfacure.github.io/img/tutorial/vanilla_gan/digit_gan.gif
+# Kết quả tham khảo: 
+<img src="https://matheusfacure.github.io/img/tutorial/vanilla_gan/digit_gan.gif">
 
 Việc tranning ban đầu GAN chỉ có ảnh nhiễu, sau đó model G dần tạo ra các ảnh gần hơn với chữ viết tay.
 ![mnist_0](https://user-images.githubusercontent.com/65205345/143742321-2db7bccb-87b5-46f8-9393-3626ff83087d.png)
